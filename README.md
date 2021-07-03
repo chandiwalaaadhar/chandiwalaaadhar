@@ -9,22 +9,28 @@
     - Build for the Society
     - Contribute more to Open Source Projects.
     
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandiwalaaadhar&layout=compact"/>
+ 
 - 📫 What is the best way to contact me?        [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadhar-chandiwala-28650777/) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandiwalaaadhar@gmail.com)
 - 😄 Pronouns: He/Him
+
+
+
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandiwalaaadhar)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadhar-chandiwala-28650777/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/keegncrap)
 
 [![Apple](https://img.shields.io/badge/Apple-MacBook_Pro_2016-999999?style=for-the-badge&logo=apple&logoColor=white)]()
-
 ---------------------------
+
 ### I :heart: Coding
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+
 ---------------------------
 ### Frameworks/Libraries
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
