@@ -1,5 +1,6 @@
-# Hi there, I'm Aadhar <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=chandiwalaaadhar" alt="devded" /></p>
 
+# Hi there, I'm Aadhar <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
 ## I'm a PHILOMATH
