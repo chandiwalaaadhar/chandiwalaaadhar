@@ -5,10 +5,9 @@
 
 ## I'm a PHILOMATH
 
-- 🌱 I am currently learning more about Go Lang.
-- 🏆 2021 Goals: 
-    - Build for the Society
-    - Contribute more to Open Source Projects.
+- 🌱 I am currently learning more about Java Spring Boot.
+- 🏆 2022 Goals: 
+    - Build to help society
     
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandiwalaaadhar&layout=compact"/>
  
